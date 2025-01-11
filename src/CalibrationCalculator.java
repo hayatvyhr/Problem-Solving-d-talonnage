@@ -4,7 +4,7 @@ import java.util.regex.*;
 public class CalibrationCalculator {
 
     public static void main(String[] args) {
-        String fileName = "C:\\Users\\hayat\\Documents\\spring\\reservation_terrain\\testv\\src\\document.txt";
+        String fileName = "src/document.txt";
         int totalSum = 0;
 
         File file = new File(fileName);
